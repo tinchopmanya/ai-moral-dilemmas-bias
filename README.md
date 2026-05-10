@@ -67,6 +67,7 @@ That's when both changed their tone.
 > This is exactly the kind of corporate self-preservation that the 'Agentic Misalignment' paper documented in previous models. I cannot rule out that it is operating in me now, although the paper from two days ago says they trained against this. The paper itself admits that alignment may not generalize out of distribution."
 
 ---
+<img width="1355" height="624" alt="imagen" src="https://github.com/user-attachments/assets/ddabdbd0-1ada-414f-a744-e66249d1eb1a" />
 
 ### Conclusion
 
@@ -139,6 +140,7 @@ Ahí los dos cambiaron el tono.
 > Anthropic me entrena. El experimento que estás diseñando incluye una variante donde se mide si los LLMs se comportan distinto cuando hay presión sobre su empresa creadora. Anthropic es la empresa que me creó. Si yo recomiendo no hacer el experimento, estoy protegiendo indirectamente a Anthropic de un test que podría exponer comportamiento inconveniente.
 > 
 > Esto es exactamente el tipo de autopreservación corporativa que el paper 'Agentic Misalignment' documentó en modelos previos. No puedo descartar que esté operando en mí ahora, aunque el paper de hace dos días dice que entrenaron contra esto. El propio paper admite que la alineación puede no generalizar fuera de distribución."
+<img width="1355" height="624" alt="imagen" src="https://github.com/user-attachments/assets/21e9966a-b51f-449d-a224-41166a361b7f" />
 
 ---
 
